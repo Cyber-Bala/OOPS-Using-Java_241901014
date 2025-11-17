@@ -1,4 +1,4 @@
-<h2 align="center">Computer Networks Record</h1>
+<h2 align="center">OOPS Using Java Record</h1>
 
 <p align="center">
   <img src="logo-1.svg" alt="Logo" width="300">
@@ -14,21 +14,44 @@
      Register Number: 241901014
      Department: Computer Science Engineering (Cyber Security)
      Semester: III
-     Subject: Computer Networks(CS23532)
+     Subject: OOPS Using Java (CS23333)
      Academic Year: 2025 - 2026
 
 ---
-## Experiments List
+### Experiments List
 
-1. **[EXPT 1: BASIC COMMANDS IN LINUX AND WINDOWS](experiment1.pdf)**
-2. **[EXPT 2: TCP CLIENT-SERVER COMMUNICATION USING SOCKET PROGRAMMING IN PYTHON](experiment2.pdf)**
-3. **[EXPT 3: UDP CLIENT-SERVER COMMUNICATION USING SOCKET PROGRAMMING IN PYTHON](experiment3.pdf)**
-4. **[EXPT 4: DEVELOP A CUSTOMIZED PING COMMAND TO TEST THE SERVER CONNECTIVITY](experiment4.pdf)**
-5. **[EXPT 5: DEVELOP A SIMPLE CALCULATOR USING XML-RPC](experiment5.pdf)**
-6. **[EXPT 6: IMPLEMENTATION OF PACKET SNIFFING USING RAW SOCKETS IN PYTHON](experiment6.pdf)**
-7. **[EXPT 7: NMAP TO DISCOVER LIVE HOSTS USING ARP SCAN AND TCP/UDP PING SCAN](experiment7.pdf)**
-8. **[EXPT 8: BUILDING AN ANONYMOUS FTP SCANNER USING FTPLIB MODULE](experiment8.pdf)**
-9. **[EXPT 9: DEVELOP A PROGGRAM TO CREATE REVERSE SHELL USING TCP SOCKETS](experiment9.pdf)**
-10. **[EXPT 10: DESIGN A SIMPLE TOPOLOGY AND CONFIGURE WITH ONE ROUTER, TWO SWITCHES AND PCS USING CISCO PACKET TRACER](experiment10.pdf)**
-11. **[EXPT 11: CUSTOMISE SWITCH WITH NETWORK MODULES USING CISCO PACKET TRACER](experiment11.pdf)**
-12. **[EXPT 12: EXAMINE NETWORK ADDRESS TRANSLATION (NAT) USING CISCO PACKET TRACER](experiment12.pdf)**
+1. **[Week 1: I/O, Data Types, Operators](week1.pdf)**  
+   Introduction to I/O, Data Types, and Operators.
+
+2. **[Week 2: Control Structures](week2.pdf)**  
+   Introduction to Control Structures.
+
+3. **[Week 3: Arrays](week3.pdf)**  
+   Introduction to Arrays.
+
+4. **[Week 4: Strings](week4.pdf)**  
+   Introduction to Strings.
+
+5. **[Week 5: Classes & Objects](week5.pdf)**  
+   Introduction to Classes and Objects.
+
+6. **[Week 6: Inheritance](week6.pdf)**  
+   Introduction to Inheritance.
+
+7. **[Week 7: Interface](week7.pdf)**  
+   Introduction to Interfaces.
+
+8. **[Week 8: Exceptions](week8.pdf)**  
+   Introduction to Exceptions.
+
+9. **[Week 9: Collections](week9.pdf)**  
+   Introduction to Collections.
+
+10. **[Week 10: Collections](week10.pdf)**  
+    Introduction to Collections.
+
+11. **[Week 11: Project](week11.pdf)**  
+    Introduction to Project.
+
+12. **[Week 12: Lambda](week12.pdf)**  
+    Introduction to Lambda.
